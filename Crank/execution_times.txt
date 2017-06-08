@@ -1,0 +1,40 @@
+Empty Content 
+
+EVENT [0.010]:IO: Dispatch [gre.internalinit]
+INFO [0.170]:GLES 2.0: Display initialization complete
+EVENT [0.176]:IO: Dispatch [gre.screenshow.post]
+
+
+ButtonsAndSliders (8 screens) 
+
+EVENT [0.064]:IO: Dispatch [gre.internalinit]
+INFO [0.202]:GLES 2.0: Display initialization complete
+EVENT [0.959]:IO: Dispatch [gre.screenshow.post]
+
+
+ThermostatIO (5 screens) 
+
+EVENT [0.006]:IO: Dispatch [gre.internalinit]
+INFO [0.160]:GLES 2.0: Display initialization complete
+EVENT [1.028]:IO: Dispatch [gre.screenshow.post]
+
+
+Circles 
+
+EVENT [0.013]:IO: Dispatch [gre.internalinit]
+INFO [0.157]:GLES 2.0: Display initialization complete
+EVENT [1.358]:IO: Dispatch [gre.screenshow.post]
+
+
+Scrollbar 
+
+EVENT [0.003]:IO: Dispatch [gre.internalinit]
+INFO [0.138]:GLES 2.0: Display initialization complete
+EVENT [0.810]:IO: Dispatch [gre.screenshow.post]
+
+
+Virtual Keyboard 
+
+EVENT [0.019]:IO: Dispatch [gre.internalinit]
+INFO [0.138]:GLES 2.0: Display initialization complete
+EVENT [1.373]:IO: Dispatch [gre.screenshow.post]
